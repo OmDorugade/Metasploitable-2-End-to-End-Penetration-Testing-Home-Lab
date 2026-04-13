@@ -52,7 +52,10 @@ search vsftpd
   <img width="607" height="91" alt="image" src="https://github.com/user-attachments/assets/953ca857-8e96-45e4-b1c7-1ccc226ec712" />
 </p>
 
-
+## 4. Use the `options` command so that we can look what to `set`.
+<p alig="center">
+  <img width="872" height="166" alt="image" src="https://github.com/user-attachments/assets/84fd3a7f-a232-475d-b848-57bf29231689" />
+</p>
 
 
 
