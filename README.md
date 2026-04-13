@@ -1,2 +1,8 @@
 # Metasploitable-2-End-to-End-Penetration-Testing-Home-Lab
 A hands-on VAPT project targeting Metasploitable 2, demonstrating full attack chain from Nmap scanning to Metasploit exploitation, post-exploitation, and security remediation.
+
+## 📊 Vulnerability & Exploitation Summary
+
+| # | Service | Vulnerability | Access Gained | Writeup |
+|---|--------|--------------|---------------|---------|
+| 1 | FTP | vsFTPd 2.3.4 Backdoor | Remote Shell | [View](https://github.com/OmDorugade/Metasploitable-2-End-to-End-Penetration-Testing-Home-Lab/blob/main/writeups/ftp.md) |
