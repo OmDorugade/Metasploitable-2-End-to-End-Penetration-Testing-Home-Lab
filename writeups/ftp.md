@@ -12,17 +12,17 @@
 
 nmap -p- -sV -sC <target-ip>
 
-### 📌 Explanation
+###  Explanation
 
 - -p- → Scans all 65535 ports  
 - -sV → Detects service versions running on open ports  
 - -sC → Runs default Nmap scripts for basic enumeration  
 
-### 🧠 Purpose
+###  Purpose
 
 This scan is performed to identify open ports and detect services running on the target machine. It helps in discovering potential attack vectors, such as vulnerable services like FTP.
 
-### 📊 Key Finding
+###  Key Finding
 
 - Port 21/tcp → Open  
 - Service → FTP  
@@ -34,6 +34,7 @@ This scan is performed to identify open ports and detect services running on the
   <img width="1047" height="507" alt="image" src="https://github.com/user-attachments/assets/14035783-a71a-4c39-af62-b640ebc5faf1" />
 </p>
 
+## 2. Start msfconsole and search the version name vsftpd 
 
 
 
