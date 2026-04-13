@@ -5,3 +5,17 @@
 <div align="center">
   <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/540ae502-d631-4182-a774-05188ad5ae14" />
 </div>
+
+## 1. FTP Reconnaissance using Nmap 
+
+
+
+
+
+
+
+
+
+
+
+
