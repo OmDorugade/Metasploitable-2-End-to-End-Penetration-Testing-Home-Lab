@@ -59,7 +59,7 @@ search vsftpd
 
 ## 5. Then use `exploit` to start the exploit and we are in.
 
-
+  <img width="867" height="672" alt="image" src="https://github.com/user-attachments/assets/09f8052a-2457-48c3-9bc1-53d21e5bf285" />
 
 
 
