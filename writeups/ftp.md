@@ -8,7 +8,7 @@
 
 ## 1. FTP Reconnaissance using Nmap
 
-### 🔍 Command Used
+###  Command Used
 
 nmap -p- -sV -sC <target-ip>
 
@@ -28,15 +28,23 @@ This scan is performed to identify open ports and detect services running on the
 - Service → FTP  
 - Version → vsFTPd 2.3.4  
 
-👉 This version is known to contain a backdoor vulnerability, making it a high-priority target for exploitation.
+ This version is known to contain a backdoor vulnerability, making it a high-priority target for exploitation.
 
 <p alig="center">
   <img width="1047" height="507" alt="image" src="https://github.com/user-attachments/assets/14035783-a71a-4c39-af62-b640ebc5faf1" />
 </p>
 
-## 2. Start msfconsole and search the version name vsftpd 
+## 2. Start msfconsole and search the version name vsftpd.
 
+###  Command Used
+
+msfconsole
+
+search vsftpd
+
+<p alig="center">
   <img width="1046" height="685" alt="image" src="https://github.com/user-attachments/assets/ea1aac17-4bdf-41d2-9096-b17e19824fc1" />
+</p>
 
 
 
