@@ -62,6 +62,9 @@ search vsftpd
   <img width="867" height="672" alt="image" src="https://github.com/user-attachments/assets/09f8052a-2457-48c3-9bc1-53d21e5bf285" />
 </p>
 
+## 6. Made a directory and checked it on the Target machine :
+
+  <img width="707" height="610" alt="image" src="https://github.com/user-attachments/assets/499225a4-b0ed-48ee-9fc2-b1b45cecf48c" />
 
 
 
