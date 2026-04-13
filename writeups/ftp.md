@@ -36,7 +36,7 @@ This scan is performed to identify open ports and detect services running on the
 
 ## 2. Start msfconsole and search the version name vsftpd 
 
-
+  <img width="1046" height="685" alt="image" src="https://github.com/user-attachments/assets/ea1aac17-4bdf-41d2-9096-b17e19824fc1" />
 
 
 
