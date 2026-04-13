@@ -47,6 +47,18 @@ search vsftpd
 </p>
 
 
+## 3. Used the `exploit/unix/ftp/vsftpd_234_backdoor` as exploit.
+<p alig="center">
+  <img width="607" height="91" alt="image" src="https://github.com/user-attachments/assets/953ca857-8e96-45e4-b1c7-1ccc226ec712" />
+</p>
+
+
+
+
+
+
+
+
 
 
 
