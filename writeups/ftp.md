@@ -63,10 +63,11 @@ search vsftpd
 </p>
 
 ## 6. Made a directory and checked it on the Target machine :
-
+<p alig="center">
   <img width="707" height="610" alt="image" src="https://github.com/user-attachments/assets/499225a4-b0ed-48ee-9fc2-b1b45cecf48c" />
+</p>
 
 
-
+  <img width="722" height="396" alt="image" src="https://github.com/user-attachments/assets/f1940c05-3f2a-4dc1-aced-23bd3d2670ad" />
 
 
