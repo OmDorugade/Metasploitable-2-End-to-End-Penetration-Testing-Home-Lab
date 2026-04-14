@@ -99,7 +99,8 @@ exploit
 👉 SSH session successfully established.
 
 <p align="center">
-
+  <img width="940" height="454" alt="image" src="https://github.com/user-attachments/assets/ae99d7b2-2773-4b11-bd30-b7eb509650e2" />
+</p>
 
 
 
