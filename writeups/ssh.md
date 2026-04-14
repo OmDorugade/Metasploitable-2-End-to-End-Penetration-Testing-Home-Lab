@@ -51,7 +51,15 @@ Metasploit provides an auxiliary module for performing SSH brute-force attacks u
   <img width="940" height="718" alt="image" src="https://github.com/user-attachments/assets/8aeafc4b-2ee8-4ef7-b21e-d6bd56f5dbb5" />
 </p>
 
+## 3. Selecting the Module
 
+The following module was selected:
+
+`auxiliary/scanner/ssh/ssh_login`
+
+👉 This module performs SSH login attempts using supplied credentials.
+
+<p align="center">
 
 
 
