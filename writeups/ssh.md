@@ -33,6 +33,7 @@ This scan helps identify open ports and services, highlighting SSH as a potentia
 👉 SSH is accessible and may be vulnerable to credential-based attacks.
 
 <p align="center">
+  <img width="900" height="564" alt="image" src="https://github.com/user-attachments/assets/7bdede0a-c19f-49fa-a72f-875c631c8cb1" />
 
 
 
