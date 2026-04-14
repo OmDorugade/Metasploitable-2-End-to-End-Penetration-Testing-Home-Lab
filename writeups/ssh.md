@@ -59,6 +59,25 @@ The following module was selected:
 
 👉 This module performs SSH login attempts using supplied credentials.
 
+## 4. Configuring Module Options
+
+### 🔍 Commands Used
+
+options  
+
+set RHOSTS <target-ip>  
+set USER_FILE /home/kali/Desktop/ssh_user  
+set PASS_FILE /home/kali/Desktop/ssh_password  
+set VERBOSE true  
+set STOP_ON_SUCCESS true  
+
+### 📌 Explanation
+
+- `USER_FILE` → Contains list of usernames  
+- `PASS_FILE` → Contains list of passwords  
+- `VERBOSE` → Displays each login attempt  
+- `STOP_ON_SUCCESS` → Stops after finding valid credentials  
+
 <p align="center">
 
 
