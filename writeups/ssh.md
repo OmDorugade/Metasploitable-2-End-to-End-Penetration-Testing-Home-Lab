@@ -124,7 +124,10 @@ mkdir SSH_Completed
   <img width="1093" height="498" alt="image" src="https://github.com/user-attachments/assets/e54c59f6-51c2-40a9-9b3c-3dde51d1cef6" />
 </p>
 
-
+Target Machine.
+<p align="center">
+  <img width="890" height="434" alt="image" src="https://github.com/user-attachments/assets/ef8b3127-6026-4fad-989b-2aeb4f15d193" />
+</p>
 
 
 
