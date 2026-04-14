@@ -8,7 +8,31 @@ This target hosts an SSH service running on port 22, which was identified during
   <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/cc54d9f8-bfae-485e-911f-fb64e05ea688" />
 </p>
 
+## 1. SSH Reconnaissance using Nmap
 
+### 🔍 Command Used
+
+nmap -p- -sV -sC <target-ip>
+
+### 📌 Explanation
+
+- `-p-` → Scans all 65535 ports  
+- `-sV` → Detects service versions running on open ports  
+- `-sC` → Runs default Nmap scripts for enumeration  
+
+### 🎯 Purpose
+
+This scan helps identify open ports and services, highlighting SSH as a potential entry point.
+
+### 📊 Key Finding
+
+- Port 22/tcp → Open  
+- Service → SSH  
+- Version → OpenSSH 4.7p1 Debian  
+
+👉 SSH is accessible and may be vulnerable to credential-based attacks.
+
+<p align="center">
 
 
 
