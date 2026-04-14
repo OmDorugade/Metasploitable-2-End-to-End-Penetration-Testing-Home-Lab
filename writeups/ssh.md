@@ -79,7 +79,8 @@ set STOP_ON_SUCCESS true
 - `STOP_ON_SUCCESS` → Stops after finding valid credentials  
 
 <p align="center">
-
+  <img width="940" height="327" alt="image" src="https://github.com/user-attachments/assets/db794a6f-e866-442e-a3e4-06458ea0988a" />
+</p>
 
 
 
