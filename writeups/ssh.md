@@ -83,6 +83,22 @@ set STOP_ON_SUCCESS true
 </p>
 
 
+## 5. Brute Force Execution
+
+### 🔍 Command Used
+
+exploit  
+
+### 📊 Result
+
+👉 Valid credentials discovered:
+
+- Username: `msfadmin`  
+- Password: `msfadmin`  
+
+👉 SSH session successfully established.
+
+<p align="center">
 
 
 
