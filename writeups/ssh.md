@@ -102,8 +102,27 @@ exploit
   <img width="940" height="454" alt="image" src="https://github.com/user-attachments/assets/ae99d7b2-2773-4b11-bd30-b7eb509650e2" />
 </p>
 
+## 6. Proof of Exploitation
 
+### 🔍 Commands Used
 
+sessions -i 1  
+
+ls  
+
+mkdir SSH_Completed  
+
+### 📌 Explanation
+
+- `sessions -i 1` → Interact with the active session  
+- `ls` → Verify directory contents  
+- `mkdir` → Create folder as proof of access  
+
+👉 Successful execution confirms shell access on the target system.
+
+<p align="center">
+  <img width="1093" height="498" alt="image" src="https://github.com/user-attachments/assets/e54c59f6-51c2-40a9-9b3c-3dde51d1cef6" />
+</p>
 
 
 
