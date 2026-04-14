@@ -125,12 +125,27 @@ mkdir SSH_Completed
 </p>
 
 Target Machine.
+
 <p align="center">
   <img width="890" height="434" alt="image" src="https://github.com/user-attachments/assets/ef8b3127-6026-4fad-989b-2aeb4f15d193" />
 </p>
 
 
+## 🚨 Impact
 
+- Unauthorized SSH access achieved  
+- Weak credentials exploited  
+- Potential for full system compromise  
+
+---
+
+## 🛠️ Remediation
+
+- Enforce strong password policies  
+- Disable password authentication (use SSH keys)  
+- Implement account lockout mechanisms (e.g., fail2ban)  
+- Change default credentials  
+- Restrict SSH access via firewall rules  
 
 
 
