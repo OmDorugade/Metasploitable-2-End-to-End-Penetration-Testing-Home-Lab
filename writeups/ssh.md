@@ -48,6 +48,7 @@ search ssh_login
 Metasploit provides an auxiliary module for performing SSH brute-force attacks using username and password lists.
 
 <p align="center">
+  <img width="940" height="718" alt="image" src="https://github.com/user-attachments/assets/8aeafc4b-2ee8-4ef7-b21e-d6bd56f5dbb5" />
 
 
 
