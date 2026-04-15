@@ -101,7 +101,27 @@ exploit
   <img width="940" height="437" alt="image" src="https://github.com/user-attachments/assets/78dfd9bc-5ece-4002-83c3-99606e4a4251" />
 </p>
 
+## 6. Proof of Exploitation
 
+### 🔍 Commands Used
+
+sessions -i 1  
+
+ls  
+
+mkdir Telnet_Completed  
+
+### 📌 Explanation
+
+- `sessions -i 1` → Interact with the active session  
+- `ls` → Verify directory contents  
+- `mkdir` → Create folder as proof of access  
+
+👉 Successful execution confirms shell access on the target system.
+
+<p align="center">
+  <img width="940" height="392" alt="image" src="https://github.com/user-attachments/assets/47417979-282b-44a0-89b6-aae35b231a2c" />
+</p>
 
 
 
