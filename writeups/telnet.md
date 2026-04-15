@@ -128,7 +128,22 @@ Target Machine :
   <img width="940" height="257" alt="image" src="https://github.com/user-attachments/assets/1133d054-1ab9-4d25-8b51-dff9fbcf3b44" />
 </p>
 
+## 🚨 Impact
 
+- Unauthorized Telnet access achieved  
+- Weak credentials exploited  
+- Credentials transmitted in plaintext  
+- Potential for full system compromise  
+
+---
+
+## 🛠️ Remediation
+
+- Disable Telnet service (replace with SSH)  
+- Enforce strong password policies  
+- Avoid plaintext protocols  
+- Implement account lockout mechanisms  
+- Restrict access via firewall rules 
 
 
 
