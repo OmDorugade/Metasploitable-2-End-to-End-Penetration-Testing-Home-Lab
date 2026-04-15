@@ -123,6 +123,8 @@ mkdir Telnet_Completed
   <img width="940" height="392" alt="image" src="https://github.com/user-attachments/assets/47417979-282b-44a0-89b6-aae35b231a2c" />
 </p>
 
+  <img width="940" height="257" alt="image" src="https://github.com/user-attachments/assets/1133d054-1ab9-4d25-8b51-dff9fbcf3b44" />
+
 
 
 
