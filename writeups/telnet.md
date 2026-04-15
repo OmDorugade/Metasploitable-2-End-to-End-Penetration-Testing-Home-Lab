@@ -32,6 +32,7 @@ This scan helps identify open ports and services, highlighting Telnet as a poten
 
 👉 Telnet is accessible and transmits data in plaintext, making it highly insecure and vulnerable to credential-based attacks.
 
+<p align="center">
 
 
 
