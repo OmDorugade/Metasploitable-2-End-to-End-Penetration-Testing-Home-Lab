@@ -7,5 +7,5 @@ A hands-on VAPT project targeting Metasploitable 2, demonstrating full attack ch
 |---|--------|--------------|---------------|---------|
 | 1 | FTP | vsFTPd 2.3.4 Backdoor | Remote Shell | [View](https://github.com/OmDorugade/Metasploitable-2-End-to-End-Penetration-Testing-Home-Lab/blob/main/writeups/ftp.md) |
 | 2 | SSH | Weak Credentials (Brute Force via ssh_login) | SSH Access | [View](https://github.com/OmDorugade/Metasploitable-2-End-to-End-Penetration-Testing-Home-Lab/blob/main/writeups/ssh.md) |
-| 3 | SSH | Weak Credentials (Brute Force via ssh_login) | SSH Access | [View](https://github.com/OmDorugade/Metasploitable-2-End-to-End-Penetration-Testing-Home-Lab/blob/main/writeups/ssh.md) |
+| 3 | Telnet | Weak Credentials (Brute Force via ssh_login) | SSH Access | [View](https://github.com/OmDorugade/Metasploitable-2-End-to-End-Penetration-Testing-Home-Lab/blob/main/writeups/ssh.md) |
 
