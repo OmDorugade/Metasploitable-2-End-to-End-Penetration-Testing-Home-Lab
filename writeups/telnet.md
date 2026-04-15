@@ -78,7 +78,9 @@ set STOP_ON_SUCCESS true
 - `VERBOSE` → Displays each login attempt  
 - `STOP_ON_SUCCESS` → Stops after finding valid credentials
 
-
+<p align="center">
+  <img width="940" height="684" alt="image" src="https://github.com/user-attachments/assets/48b4a2a2-bef5-458e-9e18-59a7b4d6fe9e" />
+</p>
 
 
 
