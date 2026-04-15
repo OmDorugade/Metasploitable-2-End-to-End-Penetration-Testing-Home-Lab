@@ -98,7 +98,8 @@ exploit
 👉 Telnet session successfully established.
 
 <p align="center">
-
+  <img width="940" height="437" alt="image" src="https://github.com/user-attachments/assets/78dfd9bc-5ece-4002-83c3-99606e4a4251" />
+</p>
 
 
 
