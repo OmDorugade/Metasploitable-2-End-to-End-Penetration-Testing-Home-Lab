@@ -47,8 +47,9 @@ search telnet_login
 
 Metasploit provides an auxiliary module for performing Telnet brute-force attacks using username and password lists.
 
-
-
+<p align="center">
+  <img width="940" height="247" alt="image" src="https://github.com/user-attachments/assets/27026afc-f9d6-4353-96cc-ba16d19f7d85" />
+</p>
 
 
 
