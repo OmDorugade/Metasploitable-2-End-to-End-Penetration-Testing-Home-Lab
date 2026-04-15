@@ -36,6 +36,17 @@ This scan helps identify open ports and services, highlighting Telnet as a poten
   <img width="940" height="519" alt="image" src="https://github.com/user-attachments/assets/f319a087-1688-4daa-933f-625cae1a6ac0" />
 </p>
 
+## 2. Searching for Telnet Module in Metasploit
+
+### 🔍 Command Used
+
+msfconsole  
+search telnet_login  
+
+### 📌 Explanation
+
+Metasploit provides an auxiliary module for performing Telnet brute-force attacks using username and password lists.
+
 
 
 
