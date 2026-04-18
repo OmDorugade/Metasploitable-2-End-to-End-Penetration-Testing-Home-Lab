@@ -119,7 +119,13 @@ exploit
 - Enables brute-force attacks (SSH, FTP)  
 - Helps in privilege escalation and lateral movement  
 
+## 🛠️ Remediation
 
+- Disable VRFY and EXPN commands  
+- Configure SMTP authentication properly  
+- Use firewall rules to restrict access  
+- Monitor and limit enumeration attempts  
+- Keep mail server updated  
 
 
 
