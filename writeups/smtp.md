@@ -105,7 +105,7 @@ exploit
 👉 These usernames can be used for further attacks (SSH, FTP, etc.).
 
 <p align="center">
-
+  <img width="940" height="275" alt="image" src="https://github.com/user-attachments/assets/9c2f061a-9a30-4119-a8b3-cbfbd9102a47" />
 
 
 
