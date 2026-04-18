@@ -109,9 +109,9 @@ exploit
 </p>
 
 ## 6. Commands Used where from :
-
+<p align="center">
   <img width="940" height="763" alt="image" src="https://github.com/user-attachments/assets/2b9c682f-b225-4718-8675-69b113f59dc1" />
-
+</p>
 
 
 
