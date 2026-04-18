@@ -59,7 +59,8 @@ The following module was selected:
 👉 This module enumerates valid users via SMTP service.
 
 <p align="center">
-  
+  <img width="940" height="327" alt="image" src="https://github.com/user-attachments/assets/c23f1599-a1ba-48c7-9f2c-e74d4ce8a295" />
+</p>
 
 
 
