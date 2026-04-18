@@ -108,28 +108,7 @@ exploit
   <img width="940" height="275" alt="image" src="https://github.com/user-attachments/assets/9c2f061a-9a30-4119-a8b3-cbfbd9102a47" />
 </p>
 
-## 6. Manual Verification using Netcat
 
-### 🔍 Command Used
-
-nc <target-ip> 25  
-
-### 📌 SMTP Commands Used
-
-HELO kali.local  
-VRFY root  
-VRFY mysql  
-
-### 📊 Result
-
-👉 Server responded with valid users:
-
-- root → Exists  
-- mysql → Exists  
-
-👉 Confirms enumeration results.
-
-<p align="center">
 
 
 
