@@ -47,7 +47,8 @@ search smtp
 Metasploit provides multiple SMTP-related modules; we focus on user enumeration.
 
 <p align="center">
-
+  <img width="940" height="513" alt="image" src="https://github.com/user-attachments/assets/503545e4-397e-4174-93b1-84af47ce378e" />
+</p>
 
 
 
