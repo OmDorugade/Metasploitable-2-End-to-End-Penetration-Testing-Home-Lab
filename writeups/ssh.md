@@ -5,7 +5,7 @@ This target hosts an SSH service running on port 22, which was identified during
 </div>
 
 <p align="center">
-  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/cc54d9f8-bfae-485e-911f-fb64e05ea688" />
+  <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/cc54d9f8-bfae-485e-911f-fb64e05ea688" />
 </p>
 
 ## 1. SSH Reconnaissance using Nmap
