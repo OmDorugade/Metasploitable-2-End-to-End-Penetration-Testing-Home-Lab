@@ -7,7 +7,27 @@ This target hosts a SMTP service running on port 25, which was identified during
   <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5674941d-9e59-4546-867e-b2da361257d3" />
 </p>
 
+## 1. SMTP Reconnaissance using Nmap
 
+### 🔍 Command Used
+
+nmap -p- -sV -sC <target-ip>
+
+### 📌 Explanation
+
+- `-p-` → Scans all 65535 ports  
+- `-sV` → Detects service versions  
+- `-sC` → Runs default scripts  
+
+### 🎯 Purpose
+
+Identify open services and detect SMTP running on port 25.
+
+### 📊 Key Finding
+
+- Port 25/tcp → Open  
+- Service → SMTP  
+- Server → Postfix (Ubuntu)  
 
 
 
