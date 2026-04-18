@@ -113,7 +113,21 @@ exploit
   <img width="940" height="763" alt="image" src="https://github.com/user-attachments/assets/2b9c682f-b225-4718-8675-69b113f59dc1" />
 </p>
 
+## 🚨 Impact
 
+- Valid usernames disclosed  
+- Enables brute-force attacks (SSH, FTP)  
+- Helps in privilege escalation and lateral movement  
+
+---
+
+## 🛠️ Remediation
+
+- Disable VRFY and EXPN commands  
+- Configure SMTP authentication properly  
+- Use firewall rules to restrict access  
+- Monitor and limit enumeration attempts  
+- Keep mail server updated  
 
 
 
