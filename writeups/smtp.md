@@ -85,6 +85,7 @@ set RHOSTS <target-ip>
 
 exploit  
 
+  <img width="940" height="126" alt="image" src="https://github.com/user-attachments/assets/03a070bc-51a1-4a90-b127-6145a3dc2120" />
 
 
 ### 📊 Result
