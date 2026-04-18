@@ -62,6 +62,37 @@ The following module was selected:
   <img width="1352" height="38" alt="image" src="https://github.com/user-attachments/assets/94da571d-756f-4873-b7a9-2e7e8c3916bc" />
 </p>
 
+## 4. Configuring Module Options
+
+### 🔍 Commands Used
+
+options  
+
+set RHOSTS <target-ip>  
+
+### 📌 Explanation
+
+- `RHOSTS` → Target IP address  
+- Default wordlist is used for username enumeration  
+
+<p align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
