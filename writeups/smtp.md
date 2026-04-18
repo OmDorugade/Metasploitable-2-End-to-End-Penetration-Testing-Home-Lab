@@ -32,7 +32,8 @@ Identify open services and detect SMTP running on port 25.
 👉 SMTP is available and can be used for user enumeration.
 
 <p align="center">
-
+  <img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/bcd73512-c79d-475f-b1d3-56e294e41a4e" />
+</p>
 
 
 
