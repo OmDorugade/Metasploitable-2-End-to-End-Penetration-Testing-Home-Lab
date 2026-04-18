@@ -79,7 +79,28 @@ set RHOSTS <target-ip>
   <img width="1343" height="427" alt="image" src="https://github.com/user-attachments/assets/82e576d0-02e5-4020-9986-8723f62f8c63" />
 </p>
 
+## 5. Running SMTP Enumeration
 
+### 🔍 Command Used
+
+exploit  
+
+### 📊 Result
+
+👉 Discovered valid users:
+
+- root  
+- msfadmin  
+- postgres  
+- mysql  
+- user  
+- backup  
+- www-data  
+- daemon  
+
+👉 These usernames can be used for further attacks (SSH, FTP, etc.).
+
+<p align="center">
 
 
 
