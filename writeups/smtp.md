@@ -50,8 +50,16 @@ Metasploit provides multiple SMTP-related modules; we focus on user enumeration.
   <img width="940" height="513" alt="image" src="https://github.com/user-attachments/assets/503545e4-397e-4174-93b1-84af47ce378e" />
 </p>
 
+## 3. Selecting SMTP Enumeration Module
 
+The following module was selected:
 
+`auxiliary/scanner/smtp/smtp_enum`
+
+👉 This module enumerates valid users via SMTP service.
+
+<p align="center">
+  
 
 
 
