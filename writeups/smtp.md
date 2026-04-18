@@ -108,6 +108,9 @@ exploit
   <img width="940" height="275" alt="image" src="https://github.com/user-attachments/assets/9c2f061a-9a30-4119-a8b3-cbfbd9102a47" />
 </p>
 
+## 6. Commands Used where from :
+
+  <img width="940" height="763" alt="image" src="https://github.com/user-attachments/assets/2b9c682f-b225-4718-8675-69b113f59dc1" />
 
 
 
