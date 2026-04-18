@@ -5,7 +5,7 @@ This target hosts a Telnet service running on port 23, which was identified duri
 </div>
 
 <p align="center">
-  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/34aaf678-eada-4271-b2d0-48216e86d8ba" />
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/34aaf678-eada-4271-b2d0-48216e86d8ba" />
 </p>
 
 ## 1. Telnet Reconnaissance using Nmap
