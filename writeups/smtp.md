@@ -29,7 +29,9 @@ Identify open services and detect SMTP running on port 25.
 - Service → SMTP  
 - Server → Postfix (Ubuntu)  
 
+👉 SMTP is available and can be used for user enumeration.
 
+<p align="center">
 
 
 
