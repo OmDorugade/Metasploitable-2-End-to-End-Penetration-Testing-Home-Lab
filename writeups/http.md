@@ -103,6 +103,15 @@ set LHOST <your-ip>
   <img width="940" height="592" alt="image" src="https://github.com/user-attachments/assets/d3a23cb8-a225-40c0-b590-65e2a754c47e" />
 </p>
 
+## 6. Exploitation
+
+### 🔍 Command Used
+
+exploit  
+
+👉 The exploit successfully executed, providing a Meterpreter reverse shell.
+
+<p align="center">
 
 
 
