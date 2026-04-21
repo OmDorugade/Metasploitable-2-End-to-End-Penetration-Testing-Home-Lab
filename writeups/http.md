@@ -54,4 +54,39 @@ This module confirms the HTTP service and extracts detailed version information.
   <img width="940" height="551" alt="image" src="https://github.com/user-attachments/assets/ddd057aa-3230-4089-8cc5-4eac162b0c45" />
 </p>
 
+## 3. Searching for Exploits
+
+### 🔍 Command Used
+
+searchsploit apache php 5.2.4  
+
+### 📌 Explanation
+
+Search for known vulnerabilities affecting Apache + PHP combination.
+
+### 📊 Result
+
+- PHP CGI Argument Injection (CVE-2012-1823)  
+👉 Allows remote code execution via crafted HTTP requests.
+
+<p align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
