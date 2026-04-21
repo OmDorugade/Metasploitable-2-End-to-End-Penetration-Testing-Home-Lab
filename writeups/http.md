@@ -36,7 +36,21 @@ Identify web services and versions running on the target system.
   <img width="917" height="111" alt="image" src="https://github.com/user-attachments/assets/c4d0a582-89c1-45b0-bd29-77e3479f8fd4" />
 </p>
 
+## 2. HTTP Version Detection using Metasploit
 
+### 🔍 Command Used
+
+msfconsole  
+search http_version  
+use auxiliary/scanner/http/http_version  
+set RHOSTS <target-ip>  
+run  
+
+### 📌 Explanation
+
+This module confirms the HTTP service and extracts detailed version information.
+
+<p align="center">
 
 
 
