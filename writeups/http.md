@@ -70,7 +70,8 @@ Search for known vulnerabilities affecting Apache + PHP combination.
 👉 Allows remote code execution via crafted HTTP requests.
 
 <p align="center">
-
+  <img width="940" height="158" alt="image" src="https://github.com/user-attachments/assets/d83de1fc-3784-42e4-8551-624e9f6532d0" />
+</p>
 
 
 
