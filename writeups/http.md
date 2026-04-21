@@ -83,7 +83,8 @@ use exploit/multi/http/php_cgi_arg_injection
 👉 This exploit targets PHP CGI argument injection vulnerability.
 
 <p align="center">
-
+  <img width="940" height="534" alt="image" src="https://github.com/user-attachments/assets/8cfb52b6-5b70-4d42-b05f-7780235e2d70" />
+</p>
 
 
 
