@@ -132,6 +132,26 @@ On Target Machine :
   <img width="898" height="439" alt="image" src="https://github.com/user-attachments/assets/574d703e-b5ee-4181-9d2a-2faf03b87ac7" />
 </p>
 
+## 🚨 Impact
+
+- Remote Code Execution (RCE)  
+- Full system compromise possible  
+- Unauthorized access to server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
