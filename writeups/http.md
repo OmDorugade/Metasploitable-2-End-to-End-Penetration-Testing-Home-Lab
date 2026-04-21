@@ -115,7 +115,12 @@ exploit
   <img width="940" height="653" alt="image" src="https://github.com/user-attachments/assets/c63c1c63-46ee-474c-bc02-ba797d241a95" />
 </p>
 
+## 7. Proof of Exploitation
 
+- Gained remote shell access  
+- Executed system commands  
+
+👉 Confirms full remote code execution on the target.
 
 
 
