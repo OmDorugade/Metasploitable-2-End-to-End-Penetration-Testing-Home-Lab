@@ -33,7 +33,8 @@ Identify web services and versions running on the target system.
 👉 This outdated stack is vulnerable to PHP CGI argument injection.
 
 <p align="center">
-
+  <img width="917" height="111" alt="image" src="https://github.com/user-attachments/assets/c4d0a582-89c1-45b0-bd29-77e3479f8fd4" />
+</p>
 
 
 
