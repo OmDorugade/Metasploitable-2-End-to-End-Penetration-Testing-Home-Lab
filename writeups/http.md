@@ -73,7 +73,16 @@ Search for known vulnerabilities affecting Apache + PHP combination.
   <img width="940" height="158" alt="image" src="https://github.com/user-attachments/assets/d83de1fc-3784-42e4-8551-624e9f6532d0" />
 </p>
 
+## 4. Selecting the Exploit in Metasploit
 
+### 🔍 Command Used
+
+search php cgi  
+use exploit/multi/http/php_cgi_arg_injection  
+
+👉 This exploit targets PHP CGI argument injection vulnerability.
+
+<p align="center">
 
 
 
