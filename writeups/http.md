@@ -112,7 +112,8 @@ exploit
 👉 The exploit successfully executed, providing a Meterpreter reverse shell.
 
 <p align="center">
-
+  <img width="940" height="653" alt="image" src="https://github.com/user-attachments/assets/c63c1c63-46ee-474c-bc02-ba797d241a95" />
+</p>
 
 
 
