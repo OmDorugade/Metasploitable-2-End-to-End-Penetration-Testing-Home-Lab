@@ -122,7 +122,7 @@ exploit
 
 👉 Confirms full remote code execution on the target.
 
-
+<p align="center">
 
 
 
