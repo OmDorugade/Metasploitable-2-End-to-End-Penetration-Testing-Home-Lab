@@ -126,6 +126,9 @@ exploit
   <img width="940" height="334" alt="image" src="https://github.com/user-attachments/assets/79596b31-b076-4749-b951-c8ed35d43269" />
 </p>
 
+On Target Machine :
+
+<p align="center">
 
 
 
