@@ -51,6 +51,7 @@ run
 This module confirms the HTTP service and extracts detailed version information.
 
 <p align="center">
-
+  <img width="940" height="551" alt="image" src="https://github.com/user-attachments/assets/ddd057aa-3230-4089-8cc5-4eac162b0c45" />
+</p>
 
 
