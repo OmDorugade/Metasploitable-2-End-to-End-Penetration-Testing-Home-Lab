@@ -138,7 +138,13 @@ On Target Machine :
 - Full system compromise possible  
 - Unauthorized access to server
 
+## 🛠️ Remediation
 
+- Upgrade Apache & PHP to latest versions  
+- Disable PHP CGI if not required  
+- Use secure configurations (mod_php / PHP-FPM)  
+- Apply Web Application Firewall (WAF)  
+- Restrict access via firewall rules  
 
 
 
