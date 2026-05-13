@@ -61,4 +61,20 @@ set USER_FILE /home/kali/Desktop/username.txt
 
 set PASS_FILE /home/kali/Desktop/password.txt
 
+## 📌 Explanation
+
+- `RHOSTS` → Target IP address
+- `USER_FILE` → Username wordlist
+- `PASS_FILE` → Password wordlist
+
+
+
+
+
+
+
+
+
+
+
 
