@@ -70,6 +70,7 @@ set PASS_FILE /home/kali/Desktop/password.txt
 👉 Configures brute-force authentication attack.
 
 <p align="center">
+  <img width="915" height="203" alt="image" src="https://github.com/user-attachments/assets/b4ad0371-af94-4448-8442-d3c1a97ce5e8" />
 
 
 
