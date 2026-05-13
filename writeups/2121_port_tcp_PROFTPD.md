@@ -41,7 +41,9 @@ search ftp_login
 
 Searches Metasploit modules related to FTP authentication attacks.
 
+## 📊 Result
 
+- `auxiliary/scanner/ftp/ftp_login`
 
 
 
