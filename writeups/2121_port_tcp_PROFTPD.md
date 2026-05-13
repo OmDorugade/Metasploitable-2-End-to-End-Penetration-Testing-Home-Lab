@@ -51,7 +51,7 @@ Searches Metasploit modules related to FTP authentication attacks.
   <img width="940" height="233" alt="image" src="https://github.com/user-attachments/assets/3650fcb4-5be5-416a-a6af-5e28091c302d" />
 </p>
 
-## 3. Using the FTP Login Scanner
+## 3. Configuring Target & Wordlists
 
 ## 🔍 Command Used
 
