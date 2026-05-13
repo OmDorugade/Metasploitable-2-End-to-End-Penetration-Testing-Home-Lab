@@ -35,7 +35,7 @@ nmap -p- -sV -sC target-ip
 
 ## 🔍 Command Used
 
-
+search ftp_login
 
 
 
