@@ -75,6 +75,7 @@ set PASS_FILE /home/kali/Desktop/password.txt
 
 ## 4. Launching the Attack
 
+## 🔍 Command Used
 
 
 
