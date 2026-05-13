@@ -69,7 +69,7 @@ set PASS_FILE /home/kali/Desktop/password.txt
 
 👉 Configures brute-force authentication attack.
 
-
+<p align="center">
 
 
 
