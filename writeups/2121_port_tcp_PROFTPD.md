@@ -20,7 +20,10 @@ nmap -p- -sV -sC target-ip
 - `-sV` → Detect service versions  
 - `-sC` → Run default scripts 
 
+## 📊 Key Findings
 
+- Port 2121 → FTP
+- Service → ProFTPD 1.3.1
 
 
 
