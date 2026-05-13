@@ -14,7 +14,11 @@ This target exposes an FTP service running ProFTPD on port 2121. Weak credential
 
 nmap -p- -sV -sC target-ip
 
+### 📌 Explanation
 
+- `-p-` → Scan all ports  
+- `-sV` → Detect service versions  
+- `-sC` → Run default scripts 
 
 
 
