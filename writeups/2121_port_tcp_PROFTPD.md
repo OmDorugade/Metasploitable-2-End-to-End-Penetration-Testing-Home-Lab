@@ -39,7 +39,7 @@ search ftp_login
 
 ## 📌 Explanation
 
-
+Searches Metasploit modules related to FTP authentication attacks.
 
 
 
