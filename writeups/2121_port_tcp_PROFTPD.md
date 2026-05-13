@@ -28,7 +28,8 @@ nmap -p- -sV -sC target-ip
 👉 Indicates an FTP service is accessible remotely.
 
 <p align="center">
-  
+  <img width="776" height="278" alt="image" src="https://github.com/user-attachments/assets/236d5f03-2e81-494b-9d22-a033fc1b0d0a" />
+</p>
 
 
 
