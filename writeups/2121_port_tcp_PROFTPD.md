@@ -55,7 +55,11 @@ Searches Metasploit modules related to FTP authentication attacks.
 
 ## 🔍 Command Used
 
+set RHOSTS <target-ip>
 
+set USER_FILE /home/kali/Desktop/username.txt
+
+set PASS_FILE /home/kali/Desktop/password.txt
 
 
 
