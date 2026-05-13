@@ -45,7 +45,7 @@ Searches Metasploit modules related to FTP authentication attacks.
 
 - `auxiliary/scanner/ftp/ftp_login`
 
-
+👉 Used for brute-force FTP credential testing.
 
 
 
