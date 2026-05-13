@@ -49,7 +49,7 @@ Searches Metasploit modules related to FTP authentication attacks.
 
 <p align="center">
   <img width="940" height="233" alt="image" src="https://github.com/user-attachments/assets/3650fcb4-5be5-416a-a6af-5e28091c302d" />
-
+</p>
 
 
 
