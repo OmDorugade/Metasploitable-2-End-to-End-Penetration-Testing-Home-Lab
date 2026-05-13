@@ -5,7 +5,8 @@ This target exposes an FTP service running ProFTPD on port 2121. Weak credential
 </div>
 
 <div align="center">
-  
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/cd85e351-683b-4e7d-b116-55da888ba32f" />
+
 
 
 
