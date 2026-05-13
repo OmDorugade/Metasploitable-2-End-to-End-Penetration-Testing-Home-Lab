@@ -67,7 +67,7 @@ set PASS_FILE /home/kali/Desktop/password.txt
 - `USER_FILE` → Username wordlist
 - `PASS_FILE` → Password wordlist
 
-
+👉 Configures brute-force authentication attack.
 
 
 
