@@ -25,7 +25,7 @@ nmap -p- -sV -sC target-ip
 - Port 2121 → FTP
 - Service → ProFTPD 1.3.1
 
-
+👉 Indicates an FTP service is accessible remotely.
 
 
 
