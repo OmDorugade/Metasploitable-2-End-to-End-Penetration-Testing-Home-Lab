@@ -97,6 +97,6 @@ msfadmin:msfadmin
 ## 🚨 Impact
 
 - Unauthorized FTP access
-
+- Exposure of sensitive files
 
 
