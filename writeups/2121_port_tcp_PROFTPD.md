@@ -94,8 +94,7 @@ msfadmin:msfadmin
 
 👉 Access to FTP service successfully obtained.
 
-
-
+## 🚨 Impact
 
 
 
