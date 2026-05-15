@@ -101,6 +101,7 @@ msfadmin:msfadmin
 - Weak/default credentials compromise
 - Potential privilege escalation opportunities
 
+## 🛠️ Remediation
 
 
 
