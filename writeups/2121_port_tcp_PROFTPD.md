@@ -99,4 +99,4 @@ msfadmin:msfadmin
 - Unauthorized FTP access
 - Exposure of sensitive files
 - Weak/default credentials compromise
-
+- Potential privilege escalation opportunities
