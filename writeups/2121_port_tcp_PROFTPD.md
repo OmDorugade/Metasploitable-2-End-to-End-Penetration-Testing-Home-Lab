@@ -83,10 +83,7 @@ exploit
 
 Starts FTP login brute-force attack using supplied wordlists.
 
-
-
-
-
+## 📊 Successful Credentials Found
 
 
 
