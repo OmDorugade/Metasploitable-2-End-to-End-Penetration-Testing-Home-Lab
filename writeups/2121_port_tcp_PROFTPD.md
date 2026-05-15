@@ -92,7 +92,7 @@ msfadmin:msfadmin
   <img width="940" height="777" alt="image" src="https://github.com/user-attachments/assets/bf936519-195d-4658-b04a-5b392a141cf0" />
 </p>
 
-
+👉 Access to FTP service successfully obtained.
 
 
 
