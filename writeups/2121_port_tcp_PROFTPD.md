@@ -86,7 +86,7 @@ Starts FTP login brute-force attack using supplied wordlists.
 ## 📊 Successful Credentials Found
 msfadmin:msfadmin
 
-
+👉 Weak/default credentials successfully discovered.
 
 
 
