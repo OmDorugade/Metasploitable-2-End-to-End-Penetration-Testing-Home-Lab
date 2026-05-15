@@ -105,7 +105,7 @@ msfadmin:msfadmin
 
 - Disable anonymous/default accounts
 - Enforce strong password policies
-
+- Replace FTP with secure alternatives like SFTP/SSH
 
 
 
