@@ -100,3 +100,19 @@ msfadmin:msfadmin
 - Exposure of sensitive files
 - Weak/default credentials compromise
 - Potential privilege escalation opportunities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
