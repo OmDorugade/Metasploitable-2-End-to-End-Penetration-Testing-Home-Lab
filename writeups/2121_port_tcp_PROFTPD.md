@@ -104,7 +104,7 @@ msfadmin:msfadmin
 ## 🛠️ Remediation
 
 - Disable anonymous/default accounts
-
+- Enforce strong password policies
 
 
 
