@@ -103,7 +103,7 @@ msfadmin:msfadmin
 
 ## 🛠️ Remediation
 
-
+- Disable anonymous/default accounts
 
 
 
