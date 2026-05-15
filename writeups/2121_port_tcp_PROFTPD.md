@@ -81,7 +81,7 @@ exploit
 
 ## 📌 Explanation
 
-
+Starts FTP login brute-force attack using supplied wordlists.
 
 
 
