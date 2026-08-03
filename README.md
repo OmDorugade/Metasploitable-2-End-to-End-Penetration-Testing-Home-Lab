@@ -14,3 +14,6 @@ A hands-on VAPT project targeting Metasploitable 2, demonstrating full attack ch
 | 7 | SMB (139/445) | Samba "username map script" Command Execution | Remote Root Shell | [View](https://github.com/OmDorugade/Metasploitable-2-End-to-End-Penetration-Testing-Home-Lab/blob/main/writeups/139&445_port.md) |
 | 8 | RSH/RLOGIN/REXEC (512/513/514) | Trust-Based Authentication (rhosts / hosts.equiv Misconfiguration) | Remote Shell Access (rsh / rlogin) | [View](https://github.com/OmDorugade/Metasploitable-2-End-to-End-Penetration-Testing-Home-Lab/blob/main/writeups/512_513_514_port.md) |
 | 9 | ProFTPD (2121) | ProFTPD Backdoor Command Execution | Remote Shell Access | [View](https://github.com/OmDorugade/Metasploitable-2-End-to-End-Penetration-Testing-Home-Lab/blob/main/writeups/2121_port_tcp_PROFTPD.md) |
+
+
+
